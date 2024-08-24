@@ -11,4 +11,4 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://github.com/user-attachments/assets/e594f5b6-4ec3-43f0-8cda-8bf8c2e42ed5
